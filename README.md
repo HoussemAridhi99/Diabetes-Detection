@@ -6,7 +6,6 @@ This project is a Machine Learning analysis performed in a Jupyter Notebook, cov
 
 - `Projet ML.ipynb` – Main notebook containing all the code (original source)
 - `Projet ML.html` – HTML version of the notebook for easier viewing
-- `data/` – Folder for any CSV or data files (not included here)
 
 ## 🚀 Features
 
